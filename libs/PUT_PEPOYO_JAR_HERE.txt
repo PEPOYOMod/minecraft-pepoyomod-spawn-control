@@ -1,0 +1,3 @@
+Place the original pepoyomod-2.1.7-forge-1.20.1.jar in this directory.
+The external Pepoyo mod JAR is NOT included in this recovery archive.
+The build.gradle expects the exact filename: pepoyomod-2.1.7-forge-1.20.1.jar
